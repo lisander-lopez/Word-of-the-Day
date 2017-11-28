@@ -1,0 +1,18 @@
+{
+  "name": "word-of-the-day",
+  "version": "1.0.0",
+  "description": "Anyone can receive and set the word of the day! Share the word of the day with everyone!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Redder",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "moment": "^2.19.1",
+    "mongojs": "^2.4.0",
+    "socket.io": "^1.7.3"
+  }
+}
